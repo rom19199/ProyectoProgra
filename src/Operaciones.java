@@ -11,5 +11,6 @@ public class Operaciones {
   }
   public String encontrarComplexion () {
     if (MIC > 25) {
-      complexion
+      complexion;
+    }
 }
